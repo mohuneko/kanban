@@ -65,3 +65,4 @@ gem 'bootstrap', '~> 4.3.1' #bootstrapの追加
 gem 'jquery-rails' #jqueryの追加
 gem 'font-awesome-sass', '~> 5.9.0' #font-awesome追加
 gem 'devise' #devise追加
+gem 'pry-rails'
